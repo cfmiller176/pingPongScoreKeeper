@@ -10,4 +10,5 @@ Once the designated point value is reached the game must be reset to return to s
 If the designated point value is changed during a game that is not completed, the score will automatically reset.
 
 ### Inspired by Colt Steele and The Web Developer Bootcamp
-[https://www.linkedin.com/in/coltsteele/]
+https://www.linkedin.com/in/coltsteele/
+[https://github.com/cfmiller176/pingPongScoreKeeper.git](https://github.com/cfmiller176/pingPongScoreKeeper.git)
