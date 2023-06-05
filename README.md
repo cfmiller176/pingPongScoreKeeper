@@ -14,5 +14,5 @@ https://www.linkedin.com/in/coltsteele/
 
 
 
-Live hosting
-[https://github.com/cfmiller176/pingPongScoreKeeper.git](https://github.com/cfmiller176/pingPongScoreKeeper.git)
+Live hosting(https://cfmiller176.github.io/pingPongScoreKeeper/)
+[https://cfmiller176.github.io/pingPongScoreKeeper/]
